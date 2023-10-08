@@ -4,7 +4,7 @@
 
 👤 **Théo Lopes**
 
-![Profile Pic](profile-pic.jpg)
+![Profile Pic](profile-pic.png)
 
 I started programming at 16 out of curiosity and soon discovered my passion for crafting solutions with code. In recent years, I've deepened my expertise and embraced the DevOps culture. My natural curiosity constantly pushes me to explore diverse technologies, even beyond my comfort zone, ensuring I stay ahead in the tech landscape.
 
