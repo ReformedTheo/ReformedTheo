@@ -1,15 +1,18 @@
-![Hello there!](hello-there.gif)
+<p align="center">
+    <img src="hello-there.gif" alt="Hello there!" width="888">
+</p>
 
-## Who am I?
+<h2 align="center">Who am I?</h2>
 
-👤 **Théo Lopes**
+<p align="center">
+    <img src="profile-pic.png" alt="Profile Pic" width="150">
+    <br>
+    👤 <strong>Théo Lopes</strong>
+</p>
 
-![Profile Pic](profile-pic.png)
+I began my programming journey at the age of 16 out of sheer curiosity. It wasn't long before I discovered my genuine passion for sculpting innovative solutions with code. Over the past few years, I've expanded my horizons and firmly adopted the DevOps mindset. My unending curiosity continuously propels me to probe into a myriad of technologies, often taking me out of my comfort boundaries, ensuring I remain at the forefront of the technological wave.
 
-I started programming at 16 out of curiosity and soon discovered my passion for crafting solutions with code. In recent years, I've deepened my expertise and embraced the DevOps culture. My natural curiosity constantly pushes me to explore diverse technologies, even beyond my comfort zone, ensuring I stay ahead in the tech landscape.
-
-> Whether I'm on the job or off the clock, I breathe technology.
-
+> <p align="center">Whether I'm on the job or off the clock, I breathe technology.</p>
 
 ### Core Skills
 - **Python**
@@ -22,9 +25,13 @@ I started programming at 16 out of curiosity and soon discovered my passion for 
 - **Docker**
 - **Jenkins**
 
- **My mission:**
-- Create high-quality software.
-- Optimize processes.
-- Deliver agile and efficient solutions.
+### My Mission
+- Produce top-notch software.
+- Refine and streamline processes.
+- Provide agile and adept solutions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&hide=html,css&layout=compact)](https://github.com/ReformedTheo)
+<p align="center">
+    <a href="https://github.com/ReformedTheo">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&hide=html,css&layout=compact" alt="Top Langs" width="400">
+    </a>
+</p>
