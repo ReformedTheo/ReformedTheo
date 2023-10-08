@@ -5,7 +5,7 @@
 <h2 align="center">Who am I?</h2>
 
 <p align="center">
-    <img src="profile-pic.png" alt="Profile Pic" width="150">
+    <img src="profile-pic.png" alt="Profile Pic" width="250">
     <br>
     👤 <strong>Théo Lopes</strong>
 </p>
