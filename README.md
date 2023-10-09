@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/ReformedTheo">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&hide=html,css&layout=compact" alt="Top Langs" width="400">
-        <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ReformedTheo&mode=weekly"/>
+        <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ReformedTheo&mode=weekly"/>
     </a>
 </p>
 <h2 align="center">Who am I?</h2>
@@ -27,7 +27,7 @@ I began my programming journey at the age of 16 out of sheer curiosity. It wasn'
 
 ### Areas of Exploration (or "Professional Development")
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+- ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 
