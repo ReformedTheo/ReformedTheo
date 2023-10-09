@@ -13,7 +13,7 @@
 <p align="center" style="margin-top: -20px;">
     <img src="profile-pic.png" alt="Profile Pic" width="250" style="margin-bottom: -15px;">
     <br>
-    👤 <strong>Théo Lopes</strong>
+    👤 <strong>Théo Xavier</strong>
 </p>
 
 I began my programming journey at the age of 16 out of sheer curiosity. It wasn't long before I discovered my genuine passion for sculpting innovative solutions with code. Over the past few years, I've expanded my horizons and firmly adopted the DevOps mindset. My unending curiosity continuously propels me to probe into a myriad of technologies, often taking me out of my comfort boundaries, ensuring I remain at the forefront of the technological wave.
