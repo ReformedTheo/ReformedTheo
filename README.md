@@ -3,7 +3,7 @@
 </p>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/ReformedTheo">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&hide=html,css" alt="Top Langs" width="400" style="margin-right: 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&hide=html,css&layout=compact" alt="Top Langs" width="400" style="margin-right: 15px;">
         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=ReformedTheo&mode=weekly">
     </a>
 </div>
