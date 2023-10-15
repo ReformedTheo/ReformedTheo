@@ -11,7 +11,7 @@
 
 
 <p align="center" style="margin-top: -20px;">
-    <img src="profile-pic.png" alt="Profile Pic" width="350" style="margin-bottom: -15px;">
+    <img src="profile-pic.png" alt="Profile Pic" width="400" style="margin-bottom: -15px;">
     <br>
     👤 <strong>Théo Xavier</strong>
 </p>
