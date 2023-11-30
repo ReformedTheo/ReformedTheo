@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="hello-there.gif" alt="Hello there!" width="888">
-</p>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/ReformedTheo">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&layout=compact&hide=html,css" alt="Top Langs" width="400" style="margin-right: 15px;">
@@ -20,11 +17,11 @@
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-
+<br><br>
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 
-
+<br><br>
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 - ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
