@@ -1,7 +1,7 @@
 =<!-- README do perfil -->
 
-<h1 align="center">Théo Xavier Lopes 🌸🌈</h1>
-<p align="center">Backend & DevOps. Código calmo, deploys tranquilos.</p>
+<h1 align="center">Théo Xavier Lopes 💤💤</h1>
+<p align="center">Backend & DevOps.</p>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-ff69b4?logo=python&logoColor=white&labelColor=1f1f1f" />
