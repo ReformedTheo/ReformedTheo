@@ -19,4 +19,3 @@
 
 ---
 
-Eu gosto de código claro e rotinas sossegadas: testar o que importa, logs bonitos e rollback fácil.
