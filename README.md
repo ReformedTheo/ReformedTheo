@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:me@theo.tec.br">💌 me@theo.tec.br</a> •
-  <a href="https://theo.tec.br">🌐 theo.tec.br</a>
+  <a href="mailto:me@theo.tec.br"> me@theo.tec.br</a> •
+  <a href="https://theo.tec.br"> theo.tec.br</a>
 </p>
 
 ---
