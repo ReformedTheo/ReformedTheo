@@ -19,14 +19,14 @@ Minecraft Plugins
 
 <br />
 
-<div style="display: inline-block; width: auto; background-color: #161b22; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0px 4px 20px #7951d622; overflow: hidden;">
-<div style="background-color: #0d1117; padding: 10px 15px; border-bottom: 1px solid #30363d; display: flex; align-items: center; justify-content: flex-start;">
-<span style="color: #ff5f56; font-size: 20px; line-height: 0;">•</span>
-<span style="color: #ffbd2e; font-size: 20px; line-height: 0; margin-left: 5px;">•</span>
-<span style="color: #27c93f; font-size: 20px; line-height: 0; margin-left: 5px;">•</span>
-<span style="color: #8b949e; font-size: 12px; margin-left: 15px; font-family: monospace;">~/stack</span>
-</div>
-<div style="padding: 25px;">
+<span style="font-family: monospace; color: #8b949e; background-color: #161b22; padding: 8px 20px; border-radius: 8px; border: 1px solid #30363d;">
+🔴 🟡 🟢 &nbsp; ~/stack
+</span>
+
+<br />
+<br />
+
+<div style="display: inline-block;">
 <img alt="Python" src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=7951d6" />
 <img alt="Django" src="https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=7951d6" />
 <img alt="Go" src="https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=7951d6" />
@@ -38,7 +38,6 @@ Minecraft Plugins
 <br />
 <br />
 <img alt="Java" src="https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=7951d6" />
-</div>
 </div>
 
 <br />
