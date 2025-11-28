@@ -8,8 +8,8 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ff69b4?logo=fastapi&logoColor=white&labelColor=1f1f1f" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-ff69b4?logo=docker&logoColor=white&labelColor=1f1f1f" />
   <img alt="UE5" src="https://img.shields.io/badge/UE5-ff69b4?logo=unrealengine&logoColor=white&labelColor=1f1f1f" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&labelColor=1f1f1f" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&labelColor=1f1f1f" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-ff69b4?logo=django&logoColor=white&labelColor=1f1f1f" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-ff69b4?logo=go&logoColor=white&labelColor=1f1f1f" />
 </p>
 
 <p align="center">
