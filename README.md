@@ -7,9 +7,9 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-ff69b4?logo=python&logoColor=white&labelColor=1f1f1f" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ff69b4?logo=fastapi&logoColor=white&labelColor=1f1f1f" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-ff69b4?logo=docker&logoColor=white&labelColor=1f1f1f" />
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-ff69b4?logo=gitlab&logoColor=white&labelColor=1f1f1f" />
   <img alt="UE5" src="https://img.shields.io/badge/UE5-ff69b4?logo=unrealengine&logoColor=white&labelColor=1f1f1f" />
-  <img alt="Terraform/IaC" src="https://img.shields.io/badge/Terraform%2FIaC-ff69b4?logo=terraform&logoColor=white&labelColor=1f1f1f" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&labelColor=1f1f1f" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&labelColor=1f1f1f" />
 </p>
 
 <p align="center">
