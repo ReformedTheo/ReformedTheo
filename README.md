@@ -14,7 +14,7 @@ ReformedTheo <span style="color: #7951d6;">💤</span>
 <h3 style="color: #8b949e; font-weight: 400;">
 Full Stack <span style="color: #7951d6; margin: 0 5px;">//</span> 
 DevOps <span style="color: #7951d6; margin: 0 5px;">//</span> 
-Minecraft Plugins
+Unreal Engine
 </h3>
 
 <br />
@@ -33,7 +33,7 @@ Minecraft Plugins
 <img alt="UE5" src="https://img.shields.io/badge/UE5-101010?style=for-the-badge&logo=unrealengine&logoColor=7951d6" />
 <br />
 <br />
-<img alt="Java" src="https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=7951d6" />
+<img alt="C++" src="https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </div>
 
 <br />
