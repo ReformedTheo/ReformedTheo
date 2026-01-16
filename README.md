@@ -33,7 +33,7 @@ Unreal Engine
 <img alt="UE5" src="https://img.shields.io/badge/UE5-101010?style=for-the-badge&logo=unrealengine&logoColor=7951d6" />
 <br />
 <br />
-<img alt="C++" src="https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img alt="C++" src="https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=7951d6" />
 </div>
 
 <br />
