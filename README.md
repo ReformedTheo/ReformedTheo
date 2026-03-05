@@ -48,6 +48,20 @@ Unreal Engine
 <a href="https://theo.tec.br" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/theo.tec.br-101010?style=flat-square&logo=google-chrome&logoColor=7951d6&labelColor=101010" alt="Website" />
 </a>
+
+<br />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=101010&color=7951d6&line=7951d6&point=e1e4e8&area=true&hide_border=true" width="100%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=7951d6&icon_color=7951d6&text_color=e1e4e8&bg_color=101010&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&icon_color=7951d6&title_color=7951d6&text_color=e1e4e8&bg_color=101010&hide_border=true" alt="Theo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=7951d6&fire=7951d6&currStreakLabel=7951d6&sideNums=e1e4e8&sideLabels=e1e4e8&dates=8b949e&background=101010&hide_border=true" alt="GitHub Streak" />
+</div>
 </div>
 
 <br />
