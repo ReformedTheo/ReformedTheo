@@ -43,7 +43,7 @@ Unreal Engine
 
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&layout=compact&theme=tokyonight&title_color=7951d6&icon_color=7951d6&text_color=e1e4e8&bg_color=101010&hide_border=true" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/ReformedTheo?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.colors=7951d6&config.timezone=America%2FSao_Paulo" alt="Theo's Metrics" width="100%" />
 </div>
 
 </div>
