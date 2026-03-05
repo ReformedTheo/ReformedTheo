@@ -42,5 +42,8 @@ Unreal Engine
 <div>
 
 <br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedTheo&layout=compact&theme=tokyonight&title_color=7951d6&icon_color=7951d6&text_color=e1e4e8&bg_color=101010&hide_border=true" alt="Top Languages" />
+</div>
 
 </div>
