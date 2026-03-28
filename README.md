@@ -19,9 +19,6 @@ Unreal Engine
 
 <br />
 
-<br />
-<br />
-
 <div style="display: inline-block;">
 <img alt="Python" src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=7951d6" />
 <img alt="Django" src="https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=7951d6" />
@@ -35,9 +32,15 @@ Unreal Engine
 <br />
 <img alt="C++" src="https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=7951d6" />
 </div>
+
+<br />
+<br />
+
 <div>
-  [![Theos GitHub stats](https://github-readme-stats.vercel.app/api?username=reformedtheo](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=reformedtheo&show_icons=true&theme=tokyonight&hide_border=true" alt="Theo's GitHub stats" />
 </div>
+
 <br />
 <br />
-<br />
+
+</div>
