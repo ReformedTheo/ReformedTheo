@@ -37,7 +37,7 @@ Unreal Engine
 <br />
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=reformedtheo&show_icons=true&theme=tokyonight&hide_border=true" alt="Theo's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reformedtheo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
