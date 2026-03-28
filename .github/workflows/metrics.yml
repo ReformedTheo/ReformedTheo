@@ -18,7 +18,8 @@ jobs:
           template: classic
           base: "" 
           config_timezone: America/Sao_Paulo
-          config_theme: dark
+          
+          # Plugin de Linguagens
           plugin_languages: yes
           plugin_languages_ignored: html, css, cmake, json, yaml, markdown
           plugin_languages_details: bytes-size, percentage
