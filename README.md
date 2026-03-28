@@ -36,11 +36,8 @@ Unreal Engine
 <br />
 <br />
 
-<div>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reformedtheo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reformedtheo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="165" />
-</div>
+<div align="center">
+  <img src="github-metrics.svg" alt="Minhas Linguagens" width="480">
 </div>
 
 <br />
