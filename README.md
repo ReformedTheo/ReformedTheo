@@ -39,11 +39,3 @@ Unreal Engine
 <br />
 <br />
 <br />
-<div>
-
-<br />
-<div align="center">
-  <img src="https://metrics.lecoq.io/ReformedTheo?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.colors=7951d6&config.timezone=America%2FSao_Paulo" alt="Theo's Metrics" width="100%" />
-</div>
-
-</div>
