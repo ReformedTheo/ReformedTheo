@@ -36,12 +36,6 @@ Unreal Engine
 <img alt="C++" src="https://img.shields.io/badge/C++-101010?style=for-the-badge&logo=cplusplus&logoColor=7951d6" />
 </div>
 
-### 💻 Tech Stack Highlights
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reformedtheo&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
 <br />
 <br />
 <br />
